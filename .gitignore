@@ -1,0 +1,13 @@
+Binaries/
+Cache/
+Intermediate/
+Saved/
+Logs/
+Screenshots/
+.vs/
+.vscode/
+*.user
+bin/
+obj/
+__pycache__/
+*.pyc
